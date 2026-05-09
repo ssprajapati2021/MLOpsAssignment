@@ -1,0 +1,22 @@
+{
+    "env": "local",
+    "enable_cell": false,
+    "run_experiments": false,
+    "run_final_model": true,
+    "split_mode": "manual",
+
+    "paths": {
+        "local": {
+            "complete": "D:/Projects/GitHub/MLOpsAssignment/data/",
+            "train": "D:/Projects/GitHub/MLOpsAssignment/data/train.csv",
+            "current": "D:/Projects/GitHub/MLOpsAssignment/data/current.csv",
+            "stress": "D:/Projects/GitHub/MLOpsAssignment/data/stress.csv"
+        },
+        "colab": {
+            "complete": "/content/data/complete_data",
+            "train": "/content/data/train_data",
+            "val": "/content/data/validation_data",
+            "test": "/content/data/test_data"
+        }
+    }
+}
