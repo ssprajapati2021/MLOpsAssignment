@@ -2,3 +2,4 @@
 data/
 src/mlruns/
 src/mlflow.db
+src/PredMaint_XGBoost.pkl
