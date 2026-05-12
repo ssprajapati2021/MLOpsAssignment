@@ -7,6 +7,7 @@
 
     "paths": {
         "local": {
+            "base_dir":"D:/Projects/GitHub/MLOpsAssignment/src",
             "complete": "D:/Projects/GitHub/MLOpsAssignment/data/",
             "train": "D:/Projects/GitHub/MLOpsAssignment/data/train.csv",
             "current": "D:/Projects/GitHub/MLOpsAssignment/data/current.csv",
